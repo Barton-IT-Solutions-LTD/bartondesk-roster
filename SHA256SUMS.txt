@@ -1,3 +1,3 @@
-892025096d4964a9c72dec058b2f94f4371e2e47948a2b85e039d3f1907ad6e1  BartonDesk.exe
-3f8e3f53ac622dab5814fc8f42e94fb7351bc3fcfff07c276868739cae4f8d48  BartonDesk-arm64.exe
-# BartonDesk 0.13.0
+9d85bc75d1733a067f3eafc27ef7fdc3c7ff2d580a2a261c86785fc66539e191  BartonDesk.exe
+659a44dfa7446bc15d3cb86f02440779b84daacb84a7a5dff5a1e681a8d4f64b  BartonDesk-arm64.exe
+# BartonDesk 0.13.1
